@@ -1,0 +1,1 @@
+# cdsops-adapter
